@@ -1,0 +1,38 @@
+.header {
+   color: red
+}
+
+.container {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   gap: 30px;
+}
+
+.item-img {
+   height: 250px;
+   object-fit: cover;
+   width: 300px;
+}
+
+.item-wrapper {
+   border: 1px solid grey;
+   background-color: rgb(235,235,235);
+}
+
+.item-title {
+   color: rgb(62, 46, 46);
+   text-align: center;
+   margin: 0;
+}
+
+.item-audio {
+   height: 250px;
+   width: 300px;
+}
+
+.item-video {
+   width: 300px;
+   height: 250px;
+   object-fit: cover;
+}
