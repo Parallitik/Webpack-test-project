@@ -1,1 +1,1 @@
-# Webpack-test-project
+# Gallery-project-webpack
